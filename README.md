@@ -90,9 +90,6 @@ To run the project, execute the following command:
 
 > Enter your password and continue with sql commands.
 
-### Run tests
-
-To run tests, run the following command: N/A
 
 ### Deployment
 
